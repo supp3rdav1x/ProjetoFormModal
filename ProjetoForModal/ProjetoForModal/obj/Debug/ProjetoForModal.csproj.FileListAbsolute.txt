@@ -1,0 +1,10 @@
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\bin\Debug\ProjetoForModal.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\bin\Debug\ProjetoForModal.exe
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\bin\Debug\ProjetoForModal.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\obj\Debug\ProjetoForModal.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\obj\Debug\ProjetoForModal.frmMain.resources
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\obj\Debug\ProjetoForModal.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\obj\Debug\ProjetoForModal.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\obj\Debug\ProjetoForModal.exe
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\obj\Debug\ProjetoForModal.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\ProjetoForModal\ProjetoForModal\obj\Debug\ProjetoForModal.FrmClientes.resources
